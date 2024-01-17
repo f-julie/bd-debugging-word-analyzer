@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.amazon.ata.debugging.prework.wordanalyzer","l":"WordAnalyzer"},{"p":"com.amazon.ata.debugging.prework.wordanalyzer","l":"WordAnalyzerTest"}];updateSearchResults();
